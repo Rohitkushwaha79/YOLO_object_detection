@@ -54,6 +54,6 @@ To use the YOLO object detection notebook, follow these instructions:
 
 ## Results
 
-<img src="" alt="Girl in a jacket" width="500" height="600">
+<img src="https://github.com/Rohitkushwaha79/YOLO_object_detection/blob/main/Images/result.png" alt="Result" width="500" height="600">
 
 
