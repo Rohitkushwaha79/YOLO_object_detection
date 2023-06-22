@@ -1,0 +1,2 @@
+path/to/your/weights/file filter=lfs diff=lfs merge=lfs -text
+C:/Users/Harry/Desktop/yolov3[[:space:]]weights filter=lfs diff=lfs merge=lfs -text
