@@ -54,6 +54,7 @@ To use the YOLO object detection notebook, follow these instructions:
 
 ## Results
 
-<img src="https://github.com/Rohitkushwaha79/YOLO_object_detection/blob/main/Images/result.png" alt="Result" width="500" height="600">
+![result](https://github.com/Rohitkushwaha79/YOLO_object_detection/assets/118690283/ae49203b-2e95-4bb2-9fef-937c6fb5f72b)
+
 
 
