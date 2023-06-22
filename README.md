@@ -5,11 +5,9 @@ This repository contains a Jupyter Notebook for YOLO (You Only Look Once) object
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Introduction
 
@@ -27,12 +25,6 @@ Some specific objectives and goals of the YOLO object detection notebook may inc
 8. Providing code examples, visualizations, and explanations to enhance understanding and facilitate reproducibility.
 9. Overall, the YOLO object detection notebook aims to empower users with the knowledge and practical skills required to implement YOLO for object detection tasks and inspire further exploration and experimentation in the field of computer vision..
 
-## Installation
-
-1. Open the Jupyter notebook in your browser
-2. Open the folder containing this folder
-3. Run YOLO.ipynb
-4. Done
 
 ## Usage
 
