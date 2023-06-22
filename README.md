@@ -17,15 +17,15 @@ The purpose of the YOLO (You Only Look Once) object detection notebook is to dem
 
 Some specific objectives and goals of the YOLO object detection notebook may include:
 
-- Explaining the underlying principles and concepts of the YOLO algorithm.
-- Demonstrating the process of using YOLO model pre-trained weights.
-- Providing step-by-step instructions for setting up the necessary dependencies and libraries for running the YOLO algorithm.
-- Presenting techniques for preprocessing input images to optimize object detection performance.
-- Illustrating the detection process and showcasing the ability of YOLO to identify and localize objects in image.
-- Highlighting potential use cases and applications of YOLO in various domains, such as autonomous driving, surveillance, or object recognition.
-- Discussing performance metrics and evaluating the accuracy and speed of the YOLO model.
-- Providing code examples, visualizations, and explanations to enhance understanding and facilitate reproducibility.
-- Overall, the YOLO object detection notebook aims to empower users with the knowledge and practical skills required to implement YOLO for object detection tasks and inspire further exploration and experimentation in the field of computer vision..
+1. Explaining the underlying principles and concepts of the YOLO algorithm.
+2. Demonstrating the process of using YOLO model pre-trained weights.
+3. Providing step-by-step instructions for setting up the necessary dependencies and libraries for running the YOLO algorithm.
+4. Presenting techniques for preprocessing input images to optimize object detection performance.
+5. Illustrating the detection process and showcasing the ability of YOLO to identify and localize objects in image.
+6. Highlighting potential use cases and applications of YOLO in various domains, such as autonomous driving, surveillance, or object recognition.
+7. Discussing performance metrics and evaluating the accuracy and speed of the YOLO model.
+8. Providing code examples, visualizations, and explanations to enhance understanding and facilitate reproducibility.
+9. Overall, the YOLO object detection notebook aims to empower users with the knowledge and practical skills required to implement YOLO for object detection tasks and inspire further exploration and experimentation in the field of computer vision..
 
 ## Installation
 
